@@ -1,4 +1,3 @@
-# New Features added, change to last print 
 # Python code to crete BMI Calc funcationality 
 
 import math as m 
@@ -11,7 +10,10 @@ def BMI ():
     bmi = (weight / (pow(hight,2)))* 10000
 
     print ("Your BMI is:", bmi )
+    print ("Latest version: 9/02/2024")
     # test 
-    
+    #new feature 
+    #Hello World
+
 BMI()
 
