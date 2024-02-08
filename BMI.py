@@ -2,6 +2,12 @@
 
 import math as m 
 
+a = 2
+b = 3 
+
+print(a+b)
+
+
 
 def BMI (): 
     weight = int(input ("Please enter your weight (kgs): "))
@@ -14,6 +20,8 @@ def BMI ():
     # test 
     #new feature 
     #Hello World
+    #new update
+
 
 BMI()
 
